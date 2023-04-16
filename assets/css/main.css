@@ -15,7 +15,7 @@ body {
     margin: 0rem;
     overflow: hidden;  
     font-family: "Montserrat", sans-serif;
-    cursor: url('../img/cursor.png'), auto;
+    /* cursor: url('../img/cursor.png'), auto; */
 }
   
 h1, h2, h3, p {
